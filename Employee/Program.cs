@@ -6,7 +6,7 @@ namespace Employee
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Employee Absent/Present");
+            Console.WriteLine("Calculate Salary");
         }
     }
 }
